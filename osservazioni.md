@@ -27,7 +27,7 @@ Esito dopo la modifica e spiegazione della correzione:
 
 Quali file ho incluso nel commit e perché: hello.c, osservazioni.md, 
 
-Come ho verificato che la versione provata sia presente su GitHub: con git log --online -5
+Come ho verificato che la versione provata sia presente su GitHub: con git log --oneline -5
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 
