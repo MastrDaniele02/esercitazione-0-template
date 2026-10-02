@@ -2,11 +2,11 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Daniele Mastria MastrDaniele02 ; Simone Moscariello SimoneMosca16
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/MastrDaniele02/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: Daniele, Simone
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
