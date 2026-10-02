@@ -29,7 +29,7 @@ Quali file ho incluso nel commit e perché: hello.c, osservazioni.md,
 
 Come ho verificato che la versione provata sia presente su GitHub: con git log --oneline -5
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: prima di git pull" non c'erano modifiche, quindi restituiva "Già aggiornato", mentre dopo ha riportato le modifiche effettuate.
 
 ## Step 2 — Eco: prima prova
 
